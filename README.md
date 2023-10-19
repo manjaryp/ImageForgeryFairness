@@ -20,7 +20,6 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 ## Citation
 ```
 Update soon...
-}
 ```
 
 
