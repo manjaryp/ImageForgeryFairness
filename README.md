@@ -19,7 +19,14 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 
 ## Citation
 ```
-Update soon...
+@article{gangan2023exploring,
+      title={Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness}, 
+      author={{Manjary P. Gangan} and {Anoop Kadan} and {Lajish V L}},
+      year={2023},
+      eprint={2310.12076},
+      archivePrefix={arXiv},
+      doi={https://doi.org/10.48550/arXiv.2310.12076}
+}
 ```
 
 
