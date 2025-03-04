@@ -1,7 +1,7 @@
 # Algorithmic Fairness in Natural and GAN Generated Image Detection Systems
 <img src= 'https://github.com/manjaryp/ImageForgeryFairness/blob/main/images/bias_architecture.jpg' style="max-width: 100%;">
 
-**Toward Exploring Fairness in Visual Transformer Based Natural and GAN Image Detection Systems** </br>
+##Toward Exploring Fairness in Visual Transformer Based Natural and GAN Image Detection Systems </br>
 Manjary P. Gangan<sup>a</sup>, Anoop Kadan<sup>b</sup>, and Lajish V. L.<sup>a</sup> </br>
 <sup>a</sup> Department of Computer Science, University of Calicut, India </br>
 <sup>b</sup> University of Southampton, United Kingdom
