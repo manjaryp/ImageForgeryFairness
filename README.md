@@ -16,7 +16,7 @@ Manjary P. Gangan<sup>a</sup>, Anoop Kadan<sup>b</sup>, and Lajish V. L.<sup>a</
 For inquiries, please contact: </br>
 Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
 Anoop Kadan, University of Southampton, UK. :email: anoopkadan23@gmail.com :earth_asia: [website](https://www.southampton.ac.uk/people/65qvt5/doctor-anoop-kadan)</br>
-Lajish V. L., University of Calicut, Kerala, India. :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+
 
 ## Citation
 ```
