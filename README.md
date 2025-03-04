@@ -21,7 +21,7 @@ For inquiries, please contact: </br>
 ## Citation
 ```
 @ARTICLE{gangan2024toward,
-  author={Gangan, Manjary P. and Kadan, Anoop and V. L., Lajish},
+  author={P. Gangan, Manjary and Kadan, Anoop and V. L., Lajish},
   journal={IEEE Transactions on Computational Social Systems}, 
   title={Toward Exploring Fairness in Visual Transformer Based Natural and GAN Image Detection Systems}, 
   year={2024},
