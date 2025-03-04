@@ -1,4 +1,4 @@
-# Algorithmic Fairness in Natural and GAN Generated Image Detection Systems
+# Algorithmic Fairness in Image Forensics
 <img src= 'https://github.com/manjaryp/ImageForgeryFairness/blob/main/images/bias_architecture.jpg' style="max-width: 100%;">
 
 ## Toward Exploring Fairness in Visual Transformer Based Natural and GAN Image Detection Systems </br>
